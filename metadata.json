@@ -1,0 +1,8 @@
+{
+  "name": "Remix LandVerify - Bangladesh Land Deed Verification \u0026 Fraud Detection",
+  "description": "E-governance prototype for Bangladesh sub-registry offices and citizens: cryptographic deed verification, hash-chained ownership audit log, and automated land fraud detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
